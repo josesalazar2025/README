@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">Sobre mi</h3>
+<h3 align="left">About</h3>
 
 ###
 
-<p align="left">About
+<p align="left">
 Software developer with a background in veterinary medicine and business management. Over a decade of experience in the healthcare sector applied to designing technology solutions for real clinical and commercial needs. Specialized in desktop applications (Python / CustomTkinter), iOS mobile development (Swift), and web applications. I work with OOP/MVC architectures and have hands-on experience integrating language models (LLMs), local AI, and automation with Claude Code.
 
 🛠 Current projects:
@@ -37,7 +37,7 @@ Morphos — Open Source web platform for veterinary hematology and biochemistry 
 
 ###
 
-<h3 align="left">Lenguajes y herramientas</h3>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
