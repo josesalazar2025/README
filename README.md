@@ -24,7 +24,16 @@
 
 ###
 
-<p align="left">Más de una década de experiencia gerencial  en el sector de la salud y ventas, con a un apetito voráz por el aprendizaje continuo y la innovación.<br><br>Implemento soluciones fundamentadas en un profundo entendimiento de las necesidades de los negocios. <br><br>La sensibilidad artística cultivada desde el amor por la fotografía y la producción audivisual favorecen el desarrollo creativo de los proyectos en los que me involucro.</p>
+<p align="left">About
+Software developer with a background in veterinary medicine and business management. Over a decade of experience in the healthcare sector applied to designing technology solutions for real clinical and commercial needs. Specialized in desktop applications (Python / CustomTkinter), iOS mobile development (Swift), and web applications. I work with OOP/MVC architectures and have hands-on experience integrating language models (LLMs), local AI, and automation with Claude Code.
+
+🛠 Current projects:
+
+HipnoVet — Desktop & iOS app for veterinary anesthesiology with AI, OCR, and voice integration (Python · Swift)
+HipnoVet Simulator — Gamified anesthesiology simulator for clinical training (Swift)
+Morphos — Open Source web platform for veterinary hematology and biochemistry interpretation powered by medGemma (JavaScript · PHP)
+
+📍 Barcelona | Open to junior/mid developer opportunities in teams where I can contribute technical vision and healthcare domain expertise.</p>
 
 ###
 
