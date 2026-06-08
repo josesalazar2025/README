@@ -42,7 +42,9 @@ Specialized in web applications, iOS mobile development (Swift), and desktop sof
       <b>🥇 PolySignal</b><br/>
       <sub>1st Place · CIFO La Violeta Hackathon 2026</sub><br/><br/>
       Real-time Polymarket simulation dashboard. Finnhub financial news → ModernFinBERT sentiment analysis → Qwen market predictions → Kelly Criterion position sizing. Supports any LLM provider or local inference.<br/><br/>
+      <br/><br/>
       <a href="https://blackmistcode-polysignal-hackaton.hf.space/">Check PolySignal</a>
+      <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
