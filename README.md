@@ -25,9 +25,9 @@
 
 <p align="left">
 Software developer with a background in veterinary medicine and over a decade of executive experience in the healthcare sector. I build technology solutions for real clinical and commercial problems — not demos, but tools I actually use and deploy.<br><br>
-Specialized in web applications, iOS mobile development (Swift), and desktop software (Python/CustomTkinter), with a focus on AI integration, LLM pipelines, and automation with Claude Code. I work with OOP/MVC architectures and have hands-on experience building and shipping full-stack AI-powered applications.<br><br>
+Specialized in web applications, iOS mobile development (Swift), and desktop software (Python/CustomTkinter), with a focus on AI integration, LLM pipelines, and automation with AI. I work with OOP/MVC architectures and have hands-on experience building and shipping full-stack AI-powered applications.<br><br>
 🥇 <b>1st Place — CIFO La Violeta Hackathon 2026</b> &nbsp;·&nbsp; Built PolySignal as Team Lead: real-time Polymarket prediction dashboard using ModernFinBERT, Qwen and Kelly Criterion, deployed with Docker on Hugging Face Spaces.<br><br>
-📍 Barcelona &nbsp;·&nbsp; Open to junior/mid developer roles where clinical domain knowledge meets software engineering.
+📍 Barcelona &nbsp;·&nbsp;
 </p>
 
 ###
