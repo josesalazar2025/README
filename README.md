@@ -42,7 +42,7 @@ Specialized in web applications, iOS mobile development (Swift), and desktop sof
       <b>🥇 PolySignal</b><br/>
       <sub>1st Place · CIFO La Violeta Hackathon 2026</sub><br/><br/>
       Real-time Polymarket simulation dashboard. Finnhub financial news → ModernFinBERT sentiment analysis → Qwen market predictions → Kelly Criterion position sizing. Supports any LLM provider or local inference.<br/><br/>
-      Link: <a>href="https://blackmistcode-polysignal-hackaton.hf.space/"</a>
+      <a href="https://blackmistcode-polysignal-hackaton.hf.space/">Check PolySignal</a>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -53,7 +53,7 @@ Specialized in web applications, iOS mobile development (Swift), and desktop sof
       <b>🧬 Morphos</b><br/>
       <sub>Open Source · In Development</sub><br/><br/>
       Web platform for AI-assisted veterinary clinical analytics (hematology, biochemistry, urinalysis, blood gas, cytology). Powered by medGemma 4B via Hugging Face ZeroGPU. First free tool of its kind available in Spanish globally.<br/><br/>
-      Link: <a>href="https://huggingface.co/spaces/blackmistcode/morphos/"</a>
+      <a href="https://huggingface.co/spaces/blackmistcode/morphos">Check Morphos</a>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
