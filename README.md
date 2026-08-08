@@ -43,7 +43,8 @@ Specialized in web applications, iOS mobile development (Swift), and desktop sof
       <sub>1st Place · CIFO La Violeta Hackathon 2026</sub><br/><br/>
       Real-time Polymarket simulation dashboard. Finnhub financial news → ModernFinBERT sentiment analysis → Qwen market predictions → Kelly Criterion position sizing. Supports any LLM provider or local inference.<br/><br/>
       <br/><br/>
-      <a href="https://blackmistcode-polysignal-hackaton.hf.space/">Check PolySignal</a>
+      <a href="https://blackmistcode-polysignal-hackaton.hf.space/">Try PolySignal</a>
+       <a href="https://github.com/josesalazar2025/proyecto-hackaton.git">Polignal's Repo</a>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
@@ -56,7 +57,8 @@ Specialized in web applications, iOS mobile development (Swift), and desktop sof
       <sub>Open Source · In Development</sub><br/><br/>
       Web platform for AI-assisted veterinary clinical analytics (hematology, biochemistry, urinalysis, blood gas, cytology). Powered by medGemma 4B via Hugging Face ZeroGPU. First free tool of its kind available in Spanish globally.<br/><br/>
       <br/><br/>
-      <a href="https://blackmistcode-morphos.hf.space/">Check Morphos</a>
+      <a href="https://blackmistcode-morphos.hf.space/">Try Morphos</a>
+      <a href="https://github.com/josesalazar2025/morphos-v2.git">Morpho's Repo</a>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
